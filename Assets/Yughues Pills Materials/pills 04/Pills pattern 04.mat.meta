@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1b901818189f2c4e94b31a93adbfb0b
+labels:
+- Pattern
+- Pills
+- Medication
+- Drugs
+- Medical
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12985
+  packageName: Yughues Free Pills Materials
+  packageVersion: 1.1
+  assetPath: Assets/Yughues Pills Materials/pills 04/Pills pattern 04.mat
+  uploadId: 57776
